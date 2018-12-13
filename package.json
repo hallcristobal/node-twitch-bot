@@ -1,0 +1,16 @@
+{
+  "name": "twitch_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "watch": "npx tsc --watch",
+    "start": "node ./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.14",
+    "typescript": "^3.2.2"
+  }
+}

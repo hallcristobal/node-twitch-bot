@@ -1,0 +1,10 @@
+{
+	"include": [
+		"src"
+	],
+	"compilerOptions": {
+		"allowJs": true,
+		"outDir": "bin",
+		"sourceMap": true
+	}
+}
